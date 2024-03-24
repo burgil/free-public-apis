@@ -1743,6 +1743,10 @@ API | Description | Auth | HTTPS | CORS |
 ## License
 [MIT](LICENSE) (c) 2022 public-apis
 
+---
+
+<br />
+
 <div align="center">
     <h1>Public APIs</h1>
     <i>A collective list of free APIs for use in software and web development</i>
@@ -1831,9 +1835,5 @@ API | Description | Auth | HTTPS | CORS |
         </a>
     </p>
 </div>
-
-<br />
-
----
 
 <br />
