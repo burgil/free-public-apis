@@ -1,4 +1,6 @@
-A List of Free Public API's - No Fuzz - Got it from public-apis repo after it was shutdown, original license: https://github.com/public-apis/public-apis/#MIT-1-ov-file - Moved the text that was here to the bottom of this readme file!
+A List of Free Public API's - No Fuzz!
+Got it from `public-apis` repo after it was shutdown, [Original License](https://github.com/public-apis/public-apis/#MIT-1-ov-file)
+__Moved the text that was here to the bottom of this readme file!__
 
 ## Table of Contents
 
