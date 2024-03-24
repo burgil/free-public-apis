@@ -2,7 +2,7 @@
 
 Got it from `public-apis` repo after it was shutdown, [Original License](https://github.com/public-apis/public-apis/#MIT-1-ov-file)
 
-__Moved the text that was here to the bottom of this file!__
+__Moved the text that was here to the bottom of this file!__ (Update: I guess not all of them are free - or working - but still most are working and free, or have a free trial)
 
 ## Table of Contents
 
