@@ -2,7 +2,7 @@
 
 Got it from `public-apis` repo after it was shutdown, [Original License](https://github.com/public-apis/public-apis/#MIT-1-ov-file)
 
-__Moved the text that was here to the bottom of this readme file!__
+__Moved the text that was here to the bottom of this file!__
 
 ## Table of Contents
 
